@@ -3,7 +3,7 @@ A soft keyboard for pvbrowser.
 
 ## Overview
 This project is to implement a soft keyboard for pvbrowser, which is very useful for embedded platform with a touch screen.
-![pvkeyboard](pvkeyboard.png)
+![pvkeyboard](https://github.com/xujuntwt95329/pvkeyboard/raw/master/pvexample/pvkeyboard.png)
 
 ## Run the example
 There is a pvb example project in the `pvexample` folder, if you have pvbrowser installed in your system, you can use this example to test the soft keyboard.
